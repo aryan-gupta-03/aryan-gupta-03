@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Gupta currently pursuing B.E in Computer Science and Enginnering from [M.S Ramaiah Institute of Technology](https://msrit.edu/)
 - 🌱 I’m currently learning C++,web development
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me -- aryanrohmetra@gmail.com
 
 
